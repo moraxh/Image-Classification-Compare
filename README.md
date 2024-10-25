@@ -50,7 +50,7 @@ _<small>The metric is accuracy</small>_
 # Mutual Information
 As a extra piece of information, the mutual information was obtained for Places 365 and Clip Interrogator.
 
-The beast word to classify the images is:
+The best word to classify the images is:
 - Places 365: **coast**
 - Clip Interrogator: **beach**
 
