@@ -1,3 +1,4 @@
+![](https://wakatime.com/badge/user/d613bcc0-9e30-44c7-a33d-57e0ad70fba8/project/3d89943c-1260-48fc-8ef0-27f2d4c60b3a.svg)
 # Image Classification Comparison
 A set of codes with the goal of classifying images of mountains and beaches using multiple techniques and comparing them.
 
@@ -50,7 +51,7 @@ _<small>The metric is accuracy</small>_
 # Mutual Information
 As a extra piece of information, the mutual information was obtained for Places 365 and Clip Interrogator.
 
-The beast word to classify the images is:
+The best word to classify the images is:
 - Places 365: **coast**
 - Clip Interrogator: **beach**
 
